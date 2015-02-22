@@ -1,0 +1,10 @@
+# Site settings
+title: "Savanna Dreger's Blog"
+email:
+description: > # this means to ignore newlines until "baseurl:"
+  A teenage blog about living with a gluten free diet.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.savannadreger.com" # the base hostname & protocol for your site
+permalink: /posts/:title/
+# Build settings
+markdown: kramdown

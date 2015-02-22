@@ -1,0 +1,37 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+html {
+  font-size: 18px;
+}
+body {
+  font-family: Lato, Helvetica Nueue, Arial;
+  max-width: 36rem;
+  padding: 1rem;
+  margin: 1rem auto;
+}
+h1 {
+  margin: 1rem 0;
+}
+.post-meta {
+  color: #aaa; 
+}
+.site-title {
+  font-size: 1rem;
+}
+.post-list {
+  margin: 0;
+  padding: 0;
+  li {
+    list-style: none;
+  }
+}
+
+a {
+  color: #3ebdde;
+}
+
+.site-header {
+}
