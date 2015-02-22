@@ -17,13 +17,14 @@ h1 {
   margin: 1rem 0;
 }
 h2 {
-  margin: 1rem 0; 
+  margin: 1rem 0;
 }
 .post-meta {
   color: #aaa;
 }
 .site-title {
-  font-size: 1rem;
+
+  display: inline;
 }
 .post-list {
   margin: 0;
@@ -35,7 +36,16 @@ h2 {
 
 a {
   color: #3ebdde;
+  text-decoration: none;
+  &:hover {
+    color: lighten(#3ebdde, 20%);
+  }
 }
 
 .site-header {
+  border-bottom: 4px solid #ddd;
+  padding: 1.5rem 0;
+  color: #ddd;
+  font-size: 1.5rem;
+  margin-bottom: 2rem; 
 }
