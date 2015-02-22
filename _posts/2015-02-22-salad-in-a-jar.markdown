@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Salad in a jar"
+title:  "Hello! Learn to make salad in a jar"
 date:   2015-02-22 13:51:10
 ---
-Hello!
-
 I am Savanna Dreger and I am starting this blog to help teenagers like me learn how to make living gluten free more enjoyable. I will be including fun recipes, ways to cope with Celiac Disease or gluten intolerances, some experiences I have had throughout the years, and more! I hope people who read my blog will learn new tips and tricks for a better gluten free lifestyle.
 My theme for this blog post is to not give up on your gluten free diet. It is totally worth it in the long run. It can be hard at times, but it gets easier and comes much more naturally. Today I am going to share how staying on the gluten free diet has been worth it to me.
 
